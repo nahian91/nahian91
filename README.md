@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.anahian.com](https://www.anahian.com)
 
-- 📝 I regularly write articles on [https://www.anahian.com/blog](https://www.anahian.com/blog)
+- 📝 I regularly write articles on [https://www.anahian.com](https://www.anahian.com/blog)
 
 - 📫 How to reach me **nahiansylhet@gmail.com**
 
